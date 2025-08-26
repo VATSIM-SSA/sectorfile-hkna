@@ -1,0 +1,51 @@
+===== HKWJ About =====
+
+**Wajir Airport** is an airport in Wajir County, [[country:kenya:home|Kenya]]
+
+==== Aerodrome Data ====
+
+| ICAO                  | HKWJ |
+| IATA                  | WJR |
+| Elevation             | 757ft |
+| Transition Altitude   | 4000 ft |
+| Transition Level      | FL50 |
+| Mag Variation         | 1º E |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=Wajir_Airport&params=01_43_48_N_40_05_24_E_type:airport_region:KE|01°43′48″N 40°05′24″E]] |
+| Site | [[http://kaa.go.ke/]] |
+
+==== Runways ====
+
+^ Runway ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m) ^ Remarks ^
+| 15 | 146 | 9186 | 9186 | 9186 | 9186 | - |
+| 33 | 326º | 9186 | 9186 | 9186 | 9186 | - |
+
+
+==== Aprons ====
+
+^ Apron     ^ Type              ^ Entry / Exit  ^ Remarks ^
+| Apron 1   | Main Terminal / Remote  | Twys F, G         | - |
+| Apron 2 | Military | Twy H | - |
+
+
+==== Positions & Frequencies ====
+
+^ Position  ^ Callsign          ^ Frequency ^ Remarks ^
+| HKJK_ATIS | Nairobi ATIS        | 126.200   | - |
+| HKJK_GND  | Nairobi Apron      | 121.600   | - |
+| HKJK_TWR  | Nairobi Tower       | 118.700   | - |
+| HKJK_APP  | Nairobi Radar | 122.300 | - |
+| HKNA_CTR  | Nairobi Control     | 121.300 | - |
+
+==== Airspace ====
+
+  * //This section might require further review due to the proximity of HKNW and HKRE.//
+
+^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Nairobi CTR   | C     | HKJK_TWR | GND - FL90 | - |
+| Nairobi CTRA Area III | C | HKJK_TWR | GND - FL090 | - |
+| Nairobi TMA   | E     | - | A015 - FL195  | - |
+| Nairobi TMA   | A     | HKJK_APP | FL145 - FL195  | - |
+| Nairobi FIR/UIR     | A     | HKNA_CTR | FL145 - UNL    | - |
+
+
+{{page>hk-footer#HKJK}}
