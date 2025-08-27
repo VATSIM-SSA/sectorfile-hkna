@@ -36,9 +36,6 @@
 | HKNA_CTR  | Nairobi Control     | 121.300 | - |
 
 ==== Airspace ====
-
-  * //This section might require further review due to the proximity of HKNW and HKRE.//
-
 ^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
 | Wajir CTR   | D     | HKJK_TWR | GND - FL50 | - |
 | Nairobi FIR/UIR     | A     | HKNA_CTR | FL145 - UNL    | - |
