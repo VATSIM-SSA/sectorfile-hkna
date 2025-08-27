@@ -30,10 +30,9 @@
 ==== Positions & Frequencies ====
 
 ^ Position  ^ Callsign          ^ Frequency ^ Remarks ^
-| HKJK_ATIS | Nairobi ATIS        | 126.200   | - |
-| HKJK_GND  | Nairobi Apron      | 121.600   | - |
-| HKJK_TWR  | Nairobi Tower       | 118.700   | - |
-| HKJK_APP  | Nairobi Radar | 122.300 | - |
+| HKWJ_GND  | Wajir Ground      | 121.600   | - |
+| HKWJ_TWR  | Wajir Tower       | 118.300   | - |
+| HKWJ_APP  | Wajir Approach | 118.300 | - |
 | HKNA_CTR  | Nairobi Control     | 121.300 | - |
 
 ==== Airspace ====
@@ -41,11 +40,8 @@
   * //This section might require further review due to the proximity of HKNW and HKRE.//
 
 ^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
-| Nairobi CTR   | C     | HKJK_TWR | GND - FL90 | - |
-| Nairobi CTRA Area III | C | HKJK_TWR | GND - FL090 | - |
-| Nairobi TMA   | E     | - | A015 - FL195  | - |
-| Nairobi TMA   | A     | HKJK_APP | FL145 - FL195  | - |
+| Wajir CTR   | D     | HKJK_TWR | GND - FL50 | - |
 | Nairobi FIR/UIR     | A     | HKNA_CTR | FL145 - UNL    | - |
 
 
-{{page>hk-footer#HKJK}}
+{{page>hk-footer#HKWJ}}
