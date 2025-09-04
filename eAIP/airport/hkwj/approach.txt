@@ -11,7 +11,7 @@
 | 33    | APNEX | APNEX1A    | :::  | 47.6 nm         | RNP via PURIT | PURIT | - |
 | ::: | DUNLI | DUNLI1A | ::: | 56.3nm | ::: | ::: | - |
 | ::: | ENABO | ENABO1A | ::: | 54.4nm | RNP via EPVEM | EPVEM | - |
-| ::: | ENORA | ENORA1A | ::: | 33.6nm | RNP via AVAVO | AVOVA | - |
+| ::: | ENORA | ENORA1A | ::: | 33.6nm | RNP via AVAVO | AVAVO | - |
 | ::: | NETOV | NETOV1A | ::: | 55nm | ::: | ::: | - |
 | ::: | OKNAV | OKNAV1A | ::: | 50nm | RNP via PURIT | PURIT | - |
 
