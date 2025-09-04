@@ -54,4 +54,4 @@
   * If a pilot vacates via any other taxiway, hold short of G and await further instructions.
   * Pilots will be given taxi by Tower to the start of the Apron, before being handed off to Apron for stand.
 
-{{page>hk-footer#HKJK}}
+{{page>hk-footer#HKWJ}}
