@@ -37,7 +37,7 @@
 
 ==== Airspace ====
 ^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
-| Wajir CTR   | D     | HKJK_TWR | GND - FL50 | - |
+| Wajir CTR   | D     | HKWJ_TWR | GND - FL50 | - |
 | Nairobi FIR/UIR     | A     | HKNA_CTR | FL145 - UNL    | - |
 
 
