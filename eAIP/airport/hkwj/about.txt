@@ -1,0 +1,44 @@
+===== HKWJ About =====
+
+**Wajir Airport** is an airport in Wajir County, [[country:kenya:home|Kenya]]
+
+==== Aerodrome Data ====
+
+| ICAO                  | HKWJ |
+| IATA                  | WJR |
+| Elevation             | 757ft |
+| Transition Altitude   | 4000 ft |
+| Transition Level      | FL50 |
+| Mag Variation         | 1º E |
+| Coordinate | [[https://geohack.toolforge.org/geohack.php?pagename=Wajir_Airport&params=01_43_48_N_40_05_24_E_type:airport_region:KE|01°43′48″N 40°05′24″E]] |
+| Site | [[http://kaa.go.ke/]] |
+
+==== Runways ====
+
+^ Runway ^ Heading ^ TORA (m) ^ TODA (m) ^ ASDA (m) ^ LDA (m) ^ Remarks ^
+| 15 | 146º | 9186 | 9186 | 9186 | 9186 | - |
+| 33 | 326º | 9186 | 9186 | 9186 | 9186 | - |
+
+
+==== Aprons ====
+
+^ Apron     ^ Type              ^ Entry / Exit  ^ Remarks ^
+| Apron 1   | Main Terminal / Remote  | Twys F, G         | - |
+| Apron 2 | Military | Twy H | - |
+
+
+==== Positions & Frequencies ====
+
+^ Position  ^ Callsign          ^ Frequency ^ Remarks ^
+| HKWJ_GND  | Wajir Ground      | 121.600   | - |
+| HKWJ_TWR  | Wajir Tower       | 118.300   | - |
+| HKWJ_APP  | Wajir Approach | 118.300 | - |
+| HKNA_CTR  | Nairobi Control     | 121.300 | - |
+
+==== Airspace ====
+^ Airspace          ^ Class ^ Owner     ^ Limits        ^ Remarks ^
+| Wajir CTR   | D     | HKWJ_TWR | GND - FL50 | - |
+| Nairobi FIR/UIR     | A     | HKNA_CTR | FL145 - UNL    | - |
+
+
+{{page>hk-footer#HKWJ}}

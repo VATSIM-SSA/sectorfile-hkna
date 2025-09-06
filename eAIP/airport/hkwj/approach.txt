@@ -1,0 +1,57 @@
+===== HKWJ Approach =====
+
+==== Arrivals Procedures ====
+
+^ Rwy   ^ Fix   ^ Arrival   ^ Type          ^ Track Miles   ^ Approach ^ ILS Transition ^ Remarks ^
+| 15    | APNEX | APNEX1A    | RNAV  | 56.2 nm         | RNP via APKEM | APKEM | - |
+| ::: | DUNLI | DUNLI1B | ::: | 39.1nm | ::: | ::: | - |
+| ::: | ENORA | ENORA1B | ::: | 52.6nm | RNP via DUVRA | DUVRA | - |
+| ::: | NETOV | NETOV1B | ::: | 57.9nm | ::: | ::: | - |
+| ::: | OKNAV | OKNAV1B | ::: | 42.9nm | RNP via APKEM | APKEM | - |
+| 33    | APNEX | APNEX1A    | :::  | 47.6 nm         | RNP via PURIT | PURIT | - |
+| ::: | DUNLI | DUNLI1A | ::: | 56.3nm | ::: | ::: | - |
+| ::: | ENABO | ENABO1A | ::: | 54.4nm | RNP via EPVEM | EPVEM | - |
+| ::: | ENORA | ENORA1A | ::: | 33.6nm | RNP via AVAVO | AVAVO | - |
+| ::: | NETOV | NETOV1A | ::: | 55nm | ::: | ::: | - |
+| ::: | OKNAV | OKNAV1A | ::: | 50nm | RNP via PURIT | PURIT | - |
+
+==== Approach Procedures ====
+
+^ Rwy  ^ Approach ^ Frequency ^ Course ^ GP Angle ^ IAF ^ Platform ^ Remarks ^
+| 15 | RNP | - | 145º | 2.97º | APKEM, DUVRA or GEPIN | 3000ft | - |
+| ::: | VOR DME | 112.50 WAV | ::: | 3.00º | WAV | FL50 | - |
+| 33 | RNP | - | 325º | 2.97º | AVAVO, EPVEM, PURIT | 3000ft | - |
+| ::: | VOR DME | 112.50 WAV | ::: | 3.00º | WAV | FL50 | - |
+
+==== Holds ====
+
+^ Name  ^ ILS Approach ^ Altitude ^ Speed (IAS)   ^ Inbound CRS ^ Turn ^ Remarks ^
+| WAV | VOR DME | FL50 | 200 KT | 325º | Right | RWY15 |
+| ::: | ::: | ::: | ::: | 145º | Left | RWY33 |
+| GEPIN | RNP | FL50 | ::: | 145º | ::: | RWY15 |
+| EPVEM | ::: | ::: | ::: | 325º | Right | RWY33 |
+
+==== Missed Approach Procedures ====
+
+^ Rwy   ^ Approach ^ Missed Approach Procedure ^ Hold ^ Remarks ^
+| 15    | RNP | Climb direct to EPVEM and hold at FL50 or as instructed by ATC. | EPVEM | - |
+| ::: | VOR DME | Climb on RWY HDG 325º (MAG) upto 3000ft. Turn right to WAJIR DVOR/DME and hold at FL50 or as instructed by ATC. | WAV | - |
+| 33    | RNP | Climb direct to GEPIN and hold at FL50 or as instructed by ATC. | GEPIN | - |
+| ::: | VOR DME | Climb on RWY HDG 145º (MAG) upto 3000ft. Turn left return to WAJIR holding or as instructed by ATC. | WAV | - |
+
+==== MSA and MRVA ====
+^ Radio Aid ^ Min Distance ^ Max Distance ^ Radial From ^ Radial To ^ MSA ^ Remarks ^
+| NV | 0 nm  | 25 nm | 090º | 270º | 2800 ft | - |
+| ::: | 0 nm  | 25 nm | 270º | 090º | 2100 ft | - |
+
+
+==== Diversions ====
+
+^ ICAO ^ Name ^ Distance  ^ Longest Rwy ^ Remarks ^ 
+| HKNW | Wilson Airport | 268 nm | 1560m | - |
+| HKJK | Jomo Kenyatta International Airport | 263 nm | 4117m | - |
+| HKML | Malindi International Airport | 295 nm | 1400m | - |
+| HKEL | Eldoret International Airport | 302nm | 3475m | - |
+| HCMM | Adden Adde International Airport | 313 nm | 3590m | - |
+
+{{page>hk-footer#HKWJ}}

@@ -1,0 +1,16 @@
+===== HKWJ Charts =====
+
+The following charts are sourced from the KCAA public AIP.
+
+^ Code ^ Description                           ^ URL ^ Remarks ^
+| ADC   | Aerodrome Chart - ICAO                                               | [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKWJ/HKWJ%20Aerodrome%20Chart_.pdf|Chart]] | - |
+| STAR  | RNAV (GNSS) Standard Arrival Chart - Instrument (STAR) RWY 15 - ICAO | [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKWJ/HKWJ%20STAR%20RWY%2015__.pdf|Chart]] | - |
+| STAR  | RNAV (GNSS) Standard Arrival Chart - Instrument (STAR) RWY 33 - ICAO | [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKWJ/HKWJ%20STAR%20RWY%2033_.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart RNP RWY 15 - ICAO                          | [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKWJ/HKWJ%20RNP%20RWY%2015_.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart DVOR DME RWY 15 - ICAO                     | [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKWJ/HKWJ%20DVOR_DME%2015_.pdf|Chart]] | - |
+| IAC   |Instrument Approach Chart RNP RWY 33 - ICAO                           | [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKWJ/HKWJ%20RNP%20RWY%2033_.pdf|Chart]] | - |
+| IAC   | Instrument Approach Chart DVOR DME RWY 33 - ICAO                     | [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/documents/Root_WePub/Kenya_Rep/Charts/AD/HKWJ/HKWJ%20DVOR_DME%2033_.pdf|Chart]] | - |
+
+The complete set of HKWJ Official Charts can be found [[https://eaip.kcaa.or.ke/eAIP_15052025/15-05-2025/eAIP/HK-AD%202%20HKWJ-en-GB.html|here]].
+
+{{page>hk-footer#HKWJ}}

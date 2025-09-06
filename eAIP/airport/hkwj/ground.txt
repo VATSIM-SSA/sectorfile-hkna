@@ -1,0 +1,21 @@
+===== HKWJ Ground =====
+
+==== Latest Updates ====
+
+==== Taxi Procedures ====
+
+=== Phraseology ===
+
+<code>
+CALLSIGN, push-back approved, facing DIRECTION.
+</code>
+
+^ Apron     ^ Type              ^ Facing  ^ Remarks ^
+| Apron 1   | Main Terminal / Remote  | North-West or South-East       | Only start-up will be needed in most cases. |
+| Apron 2  | Military     | -       | Only start-up will be needed in most cases. |
+
+=== Apron 1 Stand Allocation ===
+  * Pilots may park at any position within the apron as there are no designated stands.
+
+
+{{page>hk-footer#HKWJ}}
