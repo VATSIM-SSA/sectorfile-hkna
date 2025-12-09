@@ -1,0 +1,8 @@
+===== HKWJ Scenery =====
+
+^ Platform ^ Type       ^ Developer ^ Link ^ Remarks ^
+| XP11      | Freeware  | Martinde   | [[https://forums.x-plane.org/files/file/28885-hkwj-wadjir-airport|Scenery]] | - |
+
+
+
+{{page>hk-footer#HKWJ}}
