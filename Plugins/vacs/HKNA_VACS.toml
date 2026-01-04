@@ -1,0 +1,182 @@
+[stations]
+selected_profile = "-HKNA-Generic"
+
+[stations.profiles.-HKNA-Generic]
+include = [
+    "HK*",
+    "*_FMP",
+]
+exclude = []
+priority = [
+    "*_FMP",
+    "*_CTR",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL",
+]
+frequencies = "HideAliased"
+grouping = "None"
+
+[stations.profiles.-HKNA-Generic.aliases]
+
+[stations.profiles.HKNA-ACC]
+include = [
+    "HK*",
+
+    "HAAA_*",
+    "HCSM_*",
+    "FSSS_*",
+    "HTDC_*",
+    "HUEC_*",
+    "HJJJ_*",
+
+    "*_FMP",
+]
+exclude = []
+priority = [
+    "*_FMP",
+    "HKNA_S*",
+    "*_CTR",
+    "HKJK*_APP",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL",
+]
+frequencies = "HideAliased"
+grouping = "None"
+
+[stations.profiles.HKNA-ACC.aliases]
+
+"121.300" = "HKNA"
+"125.300" = "HKNA SOUTH"
+
+"119.400" = "EL APP"
+
+"122.300" = "JK RDR"
+"118.700" = "JK AIR"
+
+"118.800" = "KI AIR"
+
+"122.700" = "MO RDR"
+"118.600" = "MO AIR"
+
+"124.300" = "NL APP"
+
+[stations.profiles.HKJK-Radar]
+include = [
+    "HKJK*",
+
+    "HKRE*",
+    "HKNW*",
+    "HKNV*",
+    "HKEM*",
+
+    "HKNA*",
+
+    "*_FMP",
+]
+exclude = []
+priority = [
+    "*_FMP",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL",
+    "HKNA_S*",
+    "*_CTR",
+]
+frequencies = "HideAliased"
+grouping = "None"
+
+[stations.profiles.HKJK-Radar.aliases]
+
+"121.300" = "HKNA"
+"125.300" = "HKNA SOUTH"
+
+"122.300" = "RDR"
+"118.700" = "JK AIR"
+"121.600 = "JK APRN"
+
+"124.300" = "RE AIR"
+
+"118.100" = "NW AIR"
+"121.900" = "NW GND"
+
+"118.200" = "EM AIR"
+
+[stations.profiles.HKJK]
+include = [
+    "HKJK*",
+
+    "HKRE*_TWR*",
+    "HKNW*_TWR*",
+
+    "HKNA*",
+
+    "*_FMP",
+]
+exclude = []
+priority = [
+    "*_FMP",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL",
+    "HKNA_S*",
+    "*_CTR",
+]
+frequencies = "HideAliased"
+grouping = "None"
+
+[stations.profiles.HKJK.aliases]
+
+"121.300" = "HKNA"
+"125.300" = "HKNA SOUTH"
+
+"122.300" = "RDR"
+"118.700" = "AIR"
+"121.600 = "APRN"
+
+"124.300" = "RE AIR"
+
+"118.100" = "NW AIR"
+
+[stations.profiles.HKMO]
+include = [
+    "HKMO*",
+    "HKML*",
+
+    "HTDC*",
+    "HTDA*_APP",
+    "HTKJ*_APP",
+
+    "HKNA*",
+
+    "*_FMP",
+]
+exclude = []
+priority = [
+    "*_FMP",
+    "HKMO*_APP",
+    "*_APP",
+    "*_TWR",
+    "*_GND",
+    "*_DEL",
+    "HKNA_S*",
+    "*_CTR",
+]
+frequencies = "HideAliased"
+grouping = "None"
+
+[stations.profiles.HKMO.aliases]
+
+"121.300" = "HKNA"
+"125.300" = "HKNA SOUTH"
+
+"122.700" = "RDR"
+"118.600" = "AIR"
+"121.600 = "GND"
+
+"120.400" = "ML AIR"
