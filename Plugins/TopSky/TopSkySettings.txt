@@ -289,7 +289,7 @@ HTTP_NOTAM_Page_Prefix=dinsQueryWeb/queryRetrievalMapAction.do?reportType=Raw&re
 HTTP_NOTAM_Page_Suffix=&actionType=notamRetrievalByICAOs
 HTTP_NOTAM_Data_Prefix=<PRE>
 HTTP_NOTAM_Data_Suffix=</PRE>
-HTTP_NOTAM_Area_Sched_Text=ACTIVATED
+HTTP_NOTAM_Area_Sched_Text=ACT
 //HTTP_NOTAM_Area_Sched_Debug
 
 HTTP_NOTAM_AUP_Text=NO RSA     MNM MAX WEF   TIL REMARK
@@ -500,15 +500,16 @@ Shortcut_SEP_Combo=0x00A2
 //                 #99 AIRSPACE v0.2
 // ##################################################################
 
-Airspace_SIGMET_Areas=HKNK
+Airspace_SIGMET_Areas=HKNA
+Airspace_NOTAM_Add=HKNA
 
-[HKNK_CTR]
-Setup_LoadView=HKNK CTR
-Setup_Informed=*:*:HKNK
+[HKNA_CTR]
+Setup_LoadView=HKNA CTR
+Setup_Informed=*:*:HKNA
 
 Airspace_C_Flag=HKJK
 
-Airspace_NOTAM_Add=HKNK,HKJK,HKMO
+Airspace_NOTAM_Add=HKNA,HKJK,HKMO
 Airspace_NOTAM_Remove=FA,FD,FL,FM,FV,FW,FY
 
 [HKJK_APP]
