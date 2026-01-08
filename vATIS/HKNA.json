@@ -1,8 +1,8 @@
 {
-  "name": "HKNA Nairobi FIR v4",
+  "name": "Nairobi (HKNA) - AIRAC 2513",
   "id": "63a00334-e2d6-4c20-b3ad-1ae647492df4",
   "updateUrl": "https://raw.githubusercontent.com/VATSIM-SSA/sectorfile-hkna/refs/heads/main/vATIS/HKNA.json",
-  "updateSerial": 2025112301,
+  "updateSerial": 2026040101,
   "stations": [
     {
       "id": "ed76cfe1-46e0-4cfd-95b7-6b9c8923895c",
@@ -1874,8 +1874,8 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "QNH {altimeter}HPA",
-            "voice": "QNH {altimeter}"
+            "text": "{altimeter}HPA",
+            "voice": "{altimeter}"
           }
         },
         "trend": {
@@ -3883,7 +3883,7 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "QNH {altimeter}HPA",
+            "text": "{altimeter}HPA",
             "voice": "QNH {altimeter}"
           }
         },
@@ -5863,7 +5863,7 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "QNH {altimeter}HPA",
+            "text": "{altimeter}HPA",
             "voice": "QNH {altimeter}"
           }
         },
@@ -7843,7 +7843,7 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "QNH {altimeter}HPA",
+            "text": "{altimeter}HPA",
             "voice": "QNH {altimeter}"
           }
         },
@@ -9811,7 +9811,7 @@
         "altimeter": {
           "pronounceDecimal": false,
           "template": {
-            "text": "QNH {altimeter}HPA",
+            "text": "{altimeter}HPA",
             "voice": "QNH {altimeter}"
           }
         },
