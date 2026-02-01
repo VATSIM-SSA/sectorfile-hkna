@@ -1,6 +1,6 @@
 ##----- Capacity Availability Document -----##
 #--- VATSSA Nairobi (HKNA) ---#
-HKJK,30
+HKJK,25
 HKMO,20
 HKKI,15
 HKEL,15
