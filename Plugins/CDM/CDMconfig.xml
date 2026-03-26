@@ -9,7 +9,7 @@
 	<invalidateAtTsat mode="true" />
 	<invalidateAtTobt mode="true" />
 	<Rates url="https://raw.githubusercontent.com/VATSIM-SSA/SSA-CDM/refs/heads/main/HKNA/rate.txt" />
-	<Taxizones url="https://raw.githubusercontent.com/VATSIM-SSA/SSA-CDM/refs/heads/main/HKNA//taxizones.txt" />
+	<Taxizones url="https://raw.githubusercontent.com/VATSIM-SSA/SSA-CDM/refs/heads/main/HKNA/taxizones.txt" />
 	<Ctot url="https://raw.githubusercontent.com/VATSIM-SSA/SSA-CDM/refs/heads/main/HKNA/CTOT.txt" />
 	<sidInterval url="https://raw.githubusercontent.com/VATSIM-SSA/SSA-CDM/refs/heads/main/HKNA/sidinterval.txt" />
 	<DefaultTaxiTime minutes="4" />
